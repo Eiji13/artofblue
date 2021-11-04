@@ -7,3 +7,7 @@ This is to make a site for Blue Mage Abilities!
 - [ ] Prepare the content you'd like to display.
 - [ ] Share your thoughts here :)
 - [ ] Prepare a first file index.html 
+
+## For Eiji:
+
+- [ ] Create one checkbox now !
