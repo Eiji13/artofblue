@@ -10,4 +10,4 @@ This is to make a site for Blue Mage Abilities!
 
 ## For Eiji:
 
-- [ ] Create one checkbox now !
+- [x] Create one checkbox now !
